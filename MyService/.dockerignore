@@ -1,0 +1,15 @@
+# Artefacts de build locaux et caches : inutiles dans le contexte Docker
+build/
+.gradle/
+gradlew
+gradlew.bat
+gradle/
+
+# Versionnage et IDE
+.git/
+.gitignore
+.idea/
+.vscode/
+*.iml
+.DS_Store
+HELP.md
